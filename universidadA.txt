@@ -1,0 +1,4 @@
+200088741, valeria alvarez, cra 50 # 75 - 54, femenino, 18
+200188741, juan solano, cra 55 # 72 - 144, masculino, 17
+200288741, carlos macias, cra 62 # 75 - 152, masculino, 13
+200388741, andrea garcia, cra 30 # 74 - 1, femenino, 19

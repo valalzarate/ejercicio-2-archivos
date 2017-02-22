@@ -1,0 +1,3 @@
+200088741, valeria alvarez, cra 50 # 75 - 125, femenino, 18
+200078904, daniela alvarez, cra 50 # 74 - 125, femenino, 20
+200034567, david fernandez, cra 61 # 74 - 125, masculino, 13
